@@ -8,15 +8,21 @@ Batch:
 2. SCP source data into Linux file system of Ingestion node to HDFS for persisting the data in the raw
 layer -> clean/curate and load into curated layer -> apply SCD and store into Dimension tables -> Apply
 masking and load into trusted layer -> Data is available for consumption/discovery and Analytics
+<br />
 
-Realtime:
+Realtime:<br />
+
 4. Run a linux shell script to simulate the realtime vehicle movement by reading data from events file
 and create smaller files.
+<br />
+
 5. NIFI data flow to read the data from the files created in step 3 and push the data to Kafka.
 5.Spark Program to read the data from HDFS location where sqoop imported and read from Kafka,
 create dataframes, temporary views in spark and join the sqoop data with the kafka data and persist
-into Elastic search indices.
+into Elastic search indices.<br />
+
 6. Kibana visualizations and dashboards created for reporting.
+<br />
 
 *Prerequisites*
 Ensure Hadoop, Spark, Eclipse IDE for scala, NIFI, Kafka, Elastic Search and Kibana are installed in the
