@@ -45,9 +45,12 @@ Nifi flow
 <br /> 
 Kibana visualisation
 <br />
+
 ![image](https://github.com/japn3et/fleet-analysis/assets/140784801/00270350-147e-43b0-8b67-f33d3285858a)
+
 <br />
 ![image](https://github.com/japn3et/fleet-analysis/assets/140784801/c26164da-6cfa-4b2f-b0ea-2c432f569394)
+
 <br />
 ![image](https://github.com/japn3et/fleet-analysis/assets/140784801/e7867afe-f072-4a82-a8ba-007d7a16b792)
 
