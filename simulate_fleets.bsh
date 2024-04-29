@@ -1,0 +1,14 @@
+# ./simulate_fleets.bsh /home/hduser/fleet/truck_event_text_partition.csv
+cp truck_event_text_partition_backup.csv truck_event_text_partition.csv
+echo 'starting fleet simulation'
+ln=`wc -l $1 | awk '{print $1}'`
+echo $ln
+for((i=1;i<=$ln;i+=13));
+do
+head -13 $1 > ./fleetout/simulateddata.txt
+sed -e '1,13d' < $1 > splitdata2.txt
+mv splitdata2.txt $1
+sleep 10
+wc -l $1
+done
+echo 'fleet simulation completed'

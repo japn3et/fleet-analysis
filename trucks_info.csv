@@ -1,0 +1,740 @@
+truckid,Registration,Details,Product,Odometer,Distance,Unit,MPG
+1,U1,Jaguar XJL Portfolio V6 D Limousine,Diesel,199000,4140,Miles,24.1
+12,FL65FBA,Vauxhall CORSA  CDTI Car,Gasoline,6075,199000,Miles,45.1
+13,MJ16XMY,Vauxhall Mokka 4x4 Utility Vehicle,Gasoline,199000,5060,Miles,43.73
+18,YD16NAK,Peugeot 308 Car Car,Petrol,64740,42009,Miles,53.23
+20,YH17VCF,Peugeot Expert Combi 9 seat MPV,Petrol,19023,8934,Miles,36.9
+14,YC59GZB,Ford Kuga Zetec 4x4 Utility Vehicle,Petrol,72335,4113,Miles,38.37
+2,YG10TZO,Peugeot Expert Welfare MPV Welfare,Gasoline,81457,5950,Miles,31.28
+3,YG10KZK,Peugeot Expert Welfare MPV Welfare,Gasoline,150090,6279,Miles,33.22
+0086,YP59ZSK,Ford Mondeo car Car,Diesel,51832,2978,Miles,25.94
+0098,YD14UWM,Peugeot Expert Tepee MPV,Diesel,54309,7070,Miles,35.9
+0106,YF13TLN,Ford Fiesta 1.4 TDi Van Car Derived Van,Diesel,38118,2512,Miles,43.22
+0107,YB13YCG,Ford Fiesta 1.4 TDi Van Car Derived Van,Diesel,46493,5758,Miles,44.8
+0201,YJ16CVB,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,29058,10480,Miles,18.56
+0202,YJ16CVA,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,39094,10222,Miles,18.06
+0203,YJ16CVX,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,46858,13380,Miles,19.98
+0204,YJ16CVR,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,32245,6856,Miles,17.91
+0205,YJ16CVS,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,68201,19145,Miles,19.68
+0206,YJ16CVT,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,30076,4693,Miles,17.95
+0207,YJ16CRZ,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,34624,9078,Miles,18.37
+0208,YJ16CRX,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,43537,13342,Miles,20.25
+0209,YJ16 CRV,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,67761,17113,Miles,20.26
+0210,YJ16CUO,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,47703,12904,Miles,18.46
+0211,YJ16CUC,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,36051,11040,Miles,18.02
+0212,YJ16CVF,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,42496,9795,Miles,18.42
+0213,YJ16CPY,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,39766,10408,Miles,20.07
+0214,YJ16CPX,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,35305,8649,Miles,20.3
+0215,YJ16CPZ,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,36828,8408,Miles,18.73
+0216,YJ16CPU,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,31545,9674,Miles,21.28
+0217,YJ16CPN,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,31604,8799,Miles,20.06
+0218,YJ16CSZ,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,49043,14371,Miles,21.65
+0219,YJ16CRF,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,24657,8300,Miles,19.81
+0220,YJ16CSY,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,47022,13238,Miles,21.7
+0221,YJ16CPV,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,37647,12024,Miles,20.65
+0222,YJ16CTV,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,42827,8869,Miles,18.13
+0223,YJ16CSU,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,53939,16147,Miles,19.06
+0224,YJ16CSV,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,33025,8423,Miles,18.61
+0225,YJ16CUV,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,45654,13027,Miles,20.19
+0226,YJ16CSF,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,43207,10456,Miles,20.41
+0227,YJ16CSX,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,52332,12049,Miles,18.97
+0228,YJ16CPO,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,34330,9588,Miles,20.53
+0229,YJ16CRK,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,12182,3257,Miles,19.72
+0230,YJ66EAF,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,27229,9176,Miles,18.98
+0231,YJ66EAA,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,28652,11281,Miles,20.3
+0232,YJ66EAE,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,41199,14232,Miles,20.7
+0234,YJ66EAG,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,50248,16819,Miles,20.17
+0235,YJ66EAM,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,31431,11639,Miles,19.22
+0236,YJ66EAO,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,31032,10788,Miles,22.29
+0237,YJ66EAP,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,34673,11798,Miles,20.56
+0238,YJ66EAK,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,23339,8698,Miles,18.53
+0239,YJ66EBF,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,34990,13126,Miles,23.61
+0240,YJ66EBL,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,23393,7886,Miles,21.09
+0241,YJ66EBK,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,47440,18486,Miles,23.19
+0242,YJ66EBG,Volkswagen CR50 Welfare Treka Welfare Bus,Diesel,26072,10369,Miles,17.52
+0254,YE09BXG,Mercedes Sprinter 511 CDi Wel Welfare Bus,Diesel,123242,7841,Miles,19.22
+0256,YE09BXC,Mercedes Sprinter 511 CDi Wel Welfare Bus,Diesel,127580,7272,Miles,19.45
+0257,YJ11LWW,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,128590,4415,Miles,16.72
+0258,YJ11LWO,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,143689,2214,Miles,13.71
+0259,YJ11LWS,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,114327,5812,Miles,15.65
+0260,YJ11LWT,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,127865,11409,Miles,19.69
+0261,YJ11LWV,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,121514,10668,Miles,21.63
+0262,YJ11LWU,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,123659,5063,Miles,18.66
+0263,YJ11LWX,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,118882,5678,Miles,17.94
+0264,YJ11LWY,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,127530,8190,Miles,19
+0265,YJ11LWR,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,128812,10508,Miles,19.59
+0266,YJ11LWZ,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,129085,5437,Miles,16.43
+0267,YJ11LXA,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,110440,4630,Miles,17.73
+0268,YJ11LWP,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,131900,7624,Miles,19.37
+0270,YJ62EWX,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,82761,4413,Miles,21.02
+0271,YJ62EXB,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,109746,9858,Miles,25.1
+0272,YJ62EWR,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,95016,4889,Miles,19.56
+0273,YJ62EWT,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,94558,7876,Miles,21.96
+0274,YJ62EUF,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,80802,5444,Miles,20.32
+0275,YJ62EOC,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,96057,10382,Miles,21.03
+0276,YJ62ENY,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,96784,4527,Miles,20.91
+0277,YJ62EKU,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,88571,6425,Miles,17.68
+0278,YJ62ETV,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,74080,8891,Miles,21.1
+0279,YJ62ESN,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,98840,8707,Miles,19.81
+0280,YJ62EPX,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,113909,8522,Miles,19.66
+0281,YJ62ENF,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,89729,7979,Miles,20.81
+0282,YJ62EPF,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,106326,11837,Miles,21.91
+0283,YJ62EUA,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,106165,4959,Miles,19.46
+0284,YB63HPY,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,69114,10286,Miles,17.84
+0285,YG14DRO,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,73088,10610,Miles,21.53
+0286,YG14LGD,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,77596,8485,Miles,20.49
+0287,YG14LFZ,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,78713,10302,Miles,20.7
+0288,YG14RHZ,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,87495,11769,Miles,21.83
+0289,YG14YKN,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,72971,8205,Miles,19.48
+0290,YH14EHJ,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,64600,5805,Miles,18.93
+0291,YH14NFU,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,63261,10089,Miles,20.26
+0292,YH14ZPN,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,68819,10758,Miles,21.21
+0293,YC14VKZ,Volkswagen CR50 Coachbuilt Mell Coachbuilt Bus,Diesel,67996,12448,Miles,21.3
+0294,YJ66EBM,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,34481,11717,Miles,20.45
+0295,YJ66DSV,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,34933,13681,Miles,21.61
+0296,YJ66EAW,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,23937,8777,Miles,20.62
+0297,YJ66DSU,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,31129,10217,Miles,19.78
+0358,YH08CKO,Ford Transit 17st Minibus Minibus to 17 Seats,Diesel,47723,1409,Miles,29.52
+0368,YG59GBV,Ford Transit 17st Minibus Minibus to 17 Seats,Diesel,94272,6046,Miles,35.09
+0369,YB60HYK,Ford Transit 17st Minibus Minibus to 17 Seats,Diesel,51985,2297,Miles,36.64
+0374,YE63TYB,Ford Transit 17st Minibus Minibus to 17 Seats,Diesel,14679,1666,Miles,23.02
+0375,YH14FNO,Ford Transit 14st minibus Minibus to 17 Seats,Diesel,17785,2232,Miles,21.41
+0376,YF65FKA,Ford Transit 14st minibus Minibus to 17 Seats,Diesel,16859,2881,Miles,34.35
+0377,YF65FKR,Ford Transit 14st minibus Minibus to 17 Seats,Diesel,16254,2346,Miles,29.61
+0379,MV17BKA,Vauxhall Movano Bus Minibus to 17 Seats,Diesel,12025,7352,Miles,38.63
+0401,SF68LJL,Fiat Ducato Welfare,Diesel,3031,2934,Miles,18.93
+0402,SF68LJK,Fiat Ducato Welfare,Diesel,2640,2541,Miles,18.44
+0403,LX65AUM,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,48062,14403,Miles,16.81
+0404,SF68LJJ,Fiat Ducato Welfare,Diesel,4456,4365,Miles,17.82
+0405,SF68LJC,Fiat Ducato Welfare,Diesel,2960,2827,Miles,18.43
+0406,SF68LJE,Fiat Ducato Welfare,Diesel,2879,2696,Miles,13.94
+0407,SF68LHZ,Fiat  Ducato Welfare,Diesel,3512,3418,Miles,19.14
+0408,SF68LHX,Fiat Ducato Welfare,Diesel,2153,2055,Miles,18.36
+0409,SF68LJA,Fiat Ducato welfare,Diesel,3092,3047,Miles,19.1
+0411,LX65AUH,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,56291,14406,Miles,19.69
+0412,LX65AUJ,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,52675,10103,Miles,17.32
+0413,LX65AUL,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,37419,9427,Miles,18.03
+0414,LX65AUK,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,62041,15149,Miles,19.95
+0415,LX65AUF,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,47362,11471,Miles,18.68
+0416,LX65AUE,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,56187,12929,Miles,19.4
+0417,LV16HLF,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,63529,14745,Miles,23.88
+0418,LV16HLG,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,70999,20199,Miles,19.82
+0419,LV16HLA,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,39704,9900,Miles,19.97
+0420,LV16HLC,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,45020,12007,Miles,22.31
+0421,LV16HLD,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,44323,11907,Miles,20.64
+0422,LV16HLE,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,45547,11579,Miles,20.65
+0423,LV16HLR,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,41669,12537,Miles,19.89
+0424,SF68LHY,Fiat ducato Welfare,Diesel,3566,3472,Miles,18.94
+0425,SF68LHW,Fiat Ducato Welfare,Diesel,2380,2288,Miles,15.29
+0426,SF68LHT,Fiat Ducato Welfare,Diesel,2116,2003,Miles,16.83
+0427,SF68LHP,Fiat Ducato Welfare,Diesel,1465,1415,Miles,14.8
+0428,SF68LHU,Fiat Ducato Welfare,Diesel,1483,1393,Miles,14.76
+0429,SF68LHR,Fiat Ducato Welfare,Diesel,1527,1432,Miles,15.69
+0442,YJ14DXR,Volkswagen CR50 Coachbuilt Mell Coachbuilt Bus,Diesel,75258,15467,Miles,19.51
+0443,YJ14DXY,Volkswagen CR50 Coachbuilt Mell Coachbuilt Bus,Diesel,83682,12511,Miles,17.64
+0444,YJ14DXP,Volkswagen CR50 Coachbuilt Mell Coachbuilt Bus,Diesel,82053,12349,Miles,19.07
+0445,YJ14DXU,Volkswagen CR50 Coachbuilt Mell Coachbuilt Bus,Diesel,72263,8677,Miles,17.47
+0446,LX66AHJ,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,28627,9928,Miles,21.12
+0447,LX66 AFY,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,29500,10070,Miles,20.15
+0448,LX66ALO,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,37175,10169,Miles,18.65
+0449,LX66AMU,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,25153,7108,Miles,18.12
+0450,LX66AJY,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,26130,7237,Miles,16.94
+0451,LX66AHE,Mercedes Sprinter Coachbuilt Coachbuilt Bus,Diesel,38582,10449,Miles,17.32
+0452,SF68LHV,Fiat Ducato Welfare,Diesel,2052,1999,Miles,16.24
+0461P,YJ64BJO,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,47852,6854,Miles,18.06
+0462P,YJ64BJK,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,53752,8614,Miles,19.8
+0463P,YJ64BJF,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,65389,7941,Miles,20.08
+0464P,YJ64BJU,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,60301,8289,Miles,18.27
+0465P,YJ64BJE,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,74317,14185,Miles,20.19
+0466P,YJ64NYO,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,57606,8591,Miles,22.57
+0467P,YJ64BJV,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,60795,8052,Miles,18.68
+0468P,YJ64BJY,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,36960,6462,Miles,17.02
+0469P,YJ64BJX,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,50673,8599,Miles,20.22
+0473,YJ64NYK,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,42754,6910,Miles,15.91
+0474,YJ64NYL,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,55871,10238,Miles,18.96
+0475,YJ64NYN,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,69454,11734,Miles,22.09
+0476,YJ64NYM,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,88365,15422,Miles,22.6
+0477,YJ64NYV,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,56114,8455,Miles,17.76
+0478,YJ64NYX,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,58038,8708,Miles,16.76
+0479,YJ64NYW,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,57744,8853,Miles,18.95
+0480,YJ64NYY,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,48744,5216,Miles,16.69
+0481,YJ64NYZ,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,45149,6563,Miles,17.48
+0482,YJ64NZB,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,65589,11082,Miles,23.86
+0483,YJ64NZA,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,55784,10353,Miles,20.13
+0484,YJ64NZC,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,58545,8680,Miles,20.2
+0486,YJ64NZP,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,56260,11235,Miles,22.11
+0487,YJ64NYT,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,38767,8328,Miles,18.89
+0488,YJ64NZM,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,81396,12867,Miles,23.86
+0489,YJ64NZO,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,68574,13142,Miles,22.79
+0491,YJ64NZH,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,53675,10788,Miles,20.12
+0492,YJ64NZK,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,55058,9888,Miles,19.18
+0493,YJ64NZD,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,45298,8564,Miles,20.09
+0494,YJ64NZG,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,45303,10711,Miles,18.69
+0495,YJ64NZE,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,60622,10752,Miles,22.82
+0496,YJ64NZF,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,62625,9945,Miles,19.92
+0497,YJ15BXE,Volkswagen CR50 Welfare Mellor Welfare Bus,Diesel,47984,9471,Miles,19.72
+0529,YC12UYR,Ford Ranger 4x4 pickup 4x4 Utility Vehicle,Diesel,40696,3093,Miles,23.99
+0531,YB63OJW,Ford Ranger 4X4 Utility Vehicle,Diesel,27491,2938,Miles,24.2
+0535,YL17PLF,Ford Ranger 4x4 CCpickup 4x4 Utility Vehicle,Diesel,4195,2189,Miles,22.6
+0536,YL17PHN,Ford Ranger 4x4 pickup 4x4 Utility Vehicle,Diesel,4521,2570,Miles,25.33
+0700,MJ16XMA,Vauxhall Corsa Car Derived Van,Diesel,20618,5168,Miles,56.91
+0701,MJ16XLX,Vauxhall Corsa Car Derived Van,Diesel,20320,5740,Miles,50.93
+0704,MW16DBX,Vauxhall Corsa Car Derived Van,Diesel,17471,4611,Miles,48.37
+0705,MW16DCF,Vauxhall Corsa Car Derived Van,Diesel,19275,5363,Miles,55.86
+0706,MW16CZC,Vauxhall Corsa Car Derived Van,Diesel,34258,7875,Miles,57.81
+0707,MW16CZD,Vauxhall Corsa Car Derived Van,Diesel,21986,5331,Miles,53.5
+0708,MW16CYZ,Vauxhall Corsa Car Derived Van,Diesel,22728,5196,Miles,52.98
+0710,MW16DFA,Vauxhall Corsa Car Derived Van,Diesel,11881,2169,Miles,54.32
+0711,MW16CZU,Vauxhall Corsa Car Derived Van,Diesel,18206,4484,Miles,42.89
+0712,MW16CZP,Vauxhall Corsa Car Derived Van,Diesel,25526,7830,Miles,57.68
+0713,MW16CZM,Vauxhall Corsa Car Derived Van,Diesel,18015,4002,Miles,48.75
+0714,MW16CZL,Vauxhall Corsa Car Derived Van,Diesel,13175,3270,Miles,51.29
+0715,MW16CZR,Vauxhall Corsa Car Derived Van,Diesel,21520,5020,Miles,39.47
+0716,MW16CZT,Vauxhall Corsa Car Derived Van,Diesel,16904,2463,Miles,50.57
+0721,YC59HAE,Ford Fiesta 1.4 TDi Van Car Derived Van,Diesel,45601,5770,Miles,46.25
+0722,MW66YYB,Vauxhall Corsa Car Derived Van,Diesel,11753,4136,Miles,49.77
+0727,MW16DCZ,Vauxhall Corsa Car Derived Van,Diesel,12292,3052,Miles,53.6
+0728,MW16DDU,Vauxhall CORSA  CDTI Car,Diesel,15890,4340,Miles,51.32
+0730,MW16CZZ,Vauxhall CORSA  CDTI Car,Diesel,38502,10917,Miles,57.07
+0735,MV17DDO,Vauxhall Corsa Car Derived Van,Diesel,7352,3047,Miles,42.49
+0736,MV17CPY,Vauxhall Corsa Car Derived Van,Diesel,19971,7487,Miles,53.38
+0737,MV17CPZ,Vauxhall Corsa Car Derived Van,Diesel,13158,6187,Miles,56.45
+0740,MW16DCY,Vauxhall Corsa Car Derived Van,Diesel,21293,6669,Miles,51.66
+0743,YF10WXR,Ford Fiesta 1.4 TDi Van Car Derived Van,Diesel,67685,3836,Miles,55.59
+0853,YF08BFZ,Vauxhall Astra Van Small,Diesel,61962,6485,Miles,32.85
+0923,YS55SXN,Ford Connect T220SWB van Van Small,Diesel,78997,6602,Miles,37.15
+0957,YE07FAF,Ford Connect T220SWB van Van Small,Diesel,74907,2698,Miles,39.96
+0959,YC07ONJ,Ford Connect T220SWB van Van Small,Diesel,88645,2978,Miles,35.44
+0976,YF07GGZ,Ford Connect T220SWB van Van Small,Diesel,76588,2027,Miles,33.43
+0989,YF57VKG,Ford Connect T220SWB van Van Small,Diesel,65401,3650,Miles,35.46
+1000,YB08XOF,Ford Connect T220SWB van Van Small,Diesel,78398,4653,Miles,42.09
+1009,YB63UOV,Peugeot Partner Van Small,Diesel,64465,9801,Miles,40.48
+1010,YB63UOW,Peugeot Partner Van Small,Diesel,40849,3990,Miles,36.33
+1011,YB63UOX,Peugeot Partner Van Small,Diesel,27448,3796,Miles,37.71
+1012,YB63UOY,Peugeot Partner Van Small,Diesel,47038,16580,Miles,43.46
+1013,YB63UPA,Peugeot Partner Van Small,Diesel,29429,3075,Miles,39.53
+1014,YB63UPC,Peugeot Partner Van Small,Diesel,24986,2609,Miles,36.34
+1016,YB63UPE,Peugeot Partner Van Small,Diesel,73323,11768,Miles,44.14
+1017,YB63UPF,Peugeot Partner Van Small,Diesel,21936,2566,Miles,33.78
+1018,YB63UPG,Peugeot Partner Van Small,Diesel,39583,6187,Miles,45.83
+1019,YB63UPH,Peugeot Partner Van Small,Diesel,43254,5614,Miles,37.07
+1020,YB63UPJ,Peugeot Partner Van Small,Diesel,42795,6371,Miles,41.45
+1021,YB63UPK,Peugeot Partner Van Small,Diesel,26022,4785,Miles,34.22
+1022,YB63UPL,Peugeot Partner Van Small,Diesel,50098,7770,Miles,33.05
+1023,YB63UPM,Peugeot Partner Van Small,Diesel,45868,7312,Miles,37.15
+1024,YB63UPN,Peugeot Partner Van Small,Diesel,33817,3388,Miles,31.36
+1025,YB63UPO,Peugeot Partner Van Small,Diesel,38069,6953,Miles,36.92
+1026,YC63ERY,Peugeot Partner Van Small,Diesel,37482,5364,Miles,36.87
+1027,YF63HCD,Peugeot Partner Van Small,Diesel,36437,5590,Miles,37.78
+1028,YF63HCG,Peugeot Partner Van Small,Diesel,43650,6601,Miles,37.88
+1029,YF63HCJ,Peugeot Partner Van Small,Diesel,39281,3906,Miles,36.28
+1030,YF63HCK,Peugeot Partner Van Small,Diesel,28735,4287,Miles,31.47
+1031,YG63ETU,Peugeot Partner Van Small,Diesel,37648,3671,Miles,38.82
+1032,YG63ETV,Peugeot Partner Van Small,Diesel,45441,5362,Miles,39.67
+1033,YG63ETX,Peugeot Partner Van Small,Diesel,32266,4422,Miles,38.08
+1034,YG63ETY,Peugeot Partner Van Small,Diesel,43905,7034,Miles,40.4
+1035,YG63ETZ,Peugeot Partner Van Small,Diesel,48910,5780,Miles,40.83
+1036,YG63EUA,Peugeot Partner Van Small,Diesel,43691,6467,Miles,34.55
+1037,YB63URL,Peugeot Partner Van Small,Diesel,58047,13986,Miles,41.68
+1038,YB63URM,Peugeot Partner Van Small,Diesel,41448,5292,Miles,38.65
+1040,YB63URO,Peugeot Partner Van Small,Diesel,41379,3829,Miles,35.35
+1041,YB63URP,Peugeot Partner Van Small,Diesel,71889,5949,Miles,39.27
+1042,YG14PFZ,Peugeot Partner Van Small,Diesel,29584,4441,Miles,41.29
+1043,YG14USC,Peugeot Partner Van Small,Diesel,35771,4810,Miles,39.22
+1044,YD14UWO,Peugeot Bipper Van Small,Diesel,33491,3835,Miles,41.48
+1045,YD14UWP,Peugeot Bipper Van Small,Diesel,29777,3788,Miles,45.02
+1046,YG14PGF,Peugeot Partner Van Small,Diesel,100847,9039,Miles,45.41
+1047,YG64RYA,Volkswagen Caddy C20 TDI MAXI Van Small,Diesel,19722,3692,Miles,33.27
+1048,YH64EWO,Volkswagen Caddy C20 TDI Maxi Van Small,Diesel,19309,2862,Miles,33.95
+1049,YH64YYU,Volkswagen Caddy C20 TDI Maxi Van Small,Diesel,29493,2697,Miles,31.97
+1050,YC14UTL,Peugeot Partner Van Small,Diesel,37606,4357,Miles,46.67
+1051,YD14UWR,Peugeot Bipper Van Small,Diesel,48697,7827,Miles,43
+1053,YG14PGE,Peugeot Partner Van Small,Diesel,26814,4523,Miles,36.52
+1054,YG14PHA,Peugeot Partner Van Small,Diesel,21224,2098,Miles,36.72
+1055,YG14RZR,Peugeot Partner Van Small,Diesel,31073,5561,Miles,38.28
+1056,YG14RZS,Peugeot Partner Van Small,Diesel,28919,4327,Miles,36.21
+1057,YD14UWL,Peugeot Partner Van Small,Diesel,28549,4243,Miles,44.67
+1058,YG14RZT,Peugeot Partner Van Small,Diesel,27987,3795,Miles,41.14
+1059,YG14RZU,Peugeot Partner Van Small,Diesel,40013,5367,Miles,39.5
+1060,YG14SBZ,Peugeot Partner Van Small,Diesel,40530,5935,Miles,42.64
+1061,YG14PGV,Peugeot Partner Van Small,Diesel,26634,4420,Miles,40.05
+1062,YG14URU,Peugeot Partner Van Small,Diesel,40147,10453,Miles,38.31
+1064,YG14PGU,Peugeot Partner Van Small,Diesel,28250,3381,Miles,39
+1065,YG14URY,Peugeot Partner Van Small,Diesel,29805,4550,Miles,39.62
+1066,YG14URZ,Peugeot Partner Van Small,Diesel,18987,6236,Miles,42.55
+1067,YD64OKP,Peugeot Partner Van Small,Diesel,32490,4855,Miles,40.53
+1068,YB15WDT,Peugeot Partner Van Small,Diesel,32004,6841,Miles,40.96
+1069,YB15WDU,Peugeot Partner Van Small,Diesel,30164,5639,Miles,40.91
+1070,YB15WDR,Peugeot Partner Van Small,Diesel,39192,8355,Miles,36.5
+1071,YB15ODV,Peugeot Partner Van Small,Diesel,23389,5933,Miles,34.7
+1073,YB15OEC,Peugeot Partner Van Small,Diesel,30517,11055,Miles,42.47
+1075,YB15WDV,Peugeot Partner Van Small,Diesel,29895,3221,Miles,40.22
+1076,YJ65XUR,Ford Transit Courier Van Small,Diesel,46467,8621,Miles,46.13
+1077,YJ65XTG,Ford Transit Courier Van Small,Diesel,54890,13311,Miles,46.37
+1078,YJ65XXD,Ford Transit Courier Van Small,Diesel,46767,10963,Miles,46.45
+1079,YC65MTF,Ford Transit Courier Van Small,Diesel,31114,4147,Miles,42.74
+1080,YC65GMF,Ford Transit Courier Van Small,Diesel,40253,7604,Miles,45.42
+1081,YC65MVD,Ford Transit Courier Van Small,Diesel,40993,6459,Miles,44.45
+1082,YC65MUU,Ford Transit Courier Van Small,Diesel,54651,14030,Miles,46.07
+1083,YC65MVA,Ford Transit Courier Van Small,Diesel,42314,10035,Miles,45.51
+1084,YF65NUE,Peugeot Bipper Van Small,Diesel,22715,8720,Miles,42.96
+1100,FL65EFY,Vauxhall COMBO Van Small,Diesel,16192,3324,Miles,35.58
+1116,YE61OVN,Volkswagen Caddy 80 CNG Van Small,CNG,88740,2509,Miles,39.85
+1117,YE61OVM,Volkswagen Caddy 80 CNG Van Small,CNG,58479,3769,Miles,40.74
+1118,YE61OVK,Volkswagen Caddy 80 CNG Van Small,CNG,66271,6846,Miles,47.57
+1119,YE61ZRX,Volkswagen Caddy 80 CNG Van Small,CNG,44482,803,Miles,32.4
+1120,YE61OVL,Volkswagen Caddy 80 CNG Van Small,CNG,48147,2806,Miles,38.5
+1121,YE61ZRY,Volkswagen Caddy 80 CNG Van Small,CNG,46541,2271,Miles,40.87
+1122,YJ13ZLX,Ford Connect T200SWB van Van Small,Diesel,24505,4924,Miles,37.64
+1124,YJ13ZFX,Ford Connect T200SWB van Van Small,Diesel,51900,5097,Miles,32.41
+1125,YD13OWA,Ford Connect T200SWB van Van Small,Diesel,47957,1088,Miles,23.22
+1126,YJ13ZPN,Ford Connect T200SWB van Van Small,Diesel,21402,3579,Miles,34.3
+1127,YK13UTM,Ford Connect T200SWB van Van Small,Diesel,29304,2177,Miles,28.35
+1128,YE13NPJ,Ford Connect T220SWB van Van Small,Diesel,56510,8039,Miles,37.09
+1129,YE13ULH,Ford Connect T220SWB van Van Small,Diesel,29754,3351,Miles,29.86
+1130,YE13NHJ,Ford Connect T220SWB van Van Small,Diesel,57120,8686,Miles,39.81
+1131,YE13NVB,Ford Connect T220SWB van Van Small,Diesel,26856,4194,Miles,32.56
+1132,YF13TLX,Ford Connect T230LWB van Van Small,Diesel,39879,5921,Miles,35.61
+1133,YF13TLU,Ford Connect T230LWB van Van Small,Diesel,41517,6345,Miles,33.4
+1135,YF13TMO,Ford Connect T230LWB van Van Small,Diesel,45331,5793,Miles,35.03
+1136,YF13TMX,Ford Connect T230LWB van Van Small,Diesel,39705,4805,Miles,35.44
+1137,YF13WCT,Ford Connect T230LWB van Van Small,Diesel,44931,11713,Miles,39.19
+1138,YF13TKU,Ford Connect T230LWB van Van Small,Diesel,35316,4104,Miles,32.56
+1139,YF13VCP,Ford Connect T230LWB van Van Small,Diesel,44951,5333,Miles,34.54
+1140,YF13WCD,Ford Connect T230LWB van Van Small,Diesel,39073,4101,Miles,34.33
+1141,YF13VBP,Ford Connect T230LWB van Van Small,Diesel,39775,2825,Miles,31.63
+1142,YF13VBN,Ford Connect T230LWB van Van Small,Diesel,36155,2572,Miles,31.87
+1145,YF13TNN,Ford Connect T230LWB van Van Small,Diesel,40720,2428,Miles,26.79
+1146,YF13VCG,Ford Connect T230LWB van Van Small,Diesel,40628,4105,Miles,33.16
+1147,YB13YBS,Ford Connect T230LWB van Van Small,Diesel,41984,6493,Miles,36.05
+1148,YF13TKZ,Ford Connect T230LWB van Van Small,Diesel,31280,2904,Miles,27.46
+1149,YF13TMY,Ford Connect T230LWB van Van Small,Diesel,33646,2631,Miles,28.14
+1150,YB13FRU,Ford Connect T230LWB van Van Small,Diesel,30642,1990,Miles,30.33
+1151,YB13LTZ,Ford Connect T230LWB van Van Small,Diesel,54225,9974,Miles,28.71
+1152,YB13PHK,Ford Connect T230LWB van Van Small,Diesel,45212,4715,Miles,33.26
+1153,YB13PGO,Ford Connect T230LWB van Van Small,Diesel,40284,4152,Miles,33.69
+1154,YB13LSX,Ford Connect T230LWB van Van Small,Diesel,57951,8271,Miles,33.22
+1155,YB13LTJ,Ford Connect T230LWB van Van Small,Diesel,38575,4303,Miles,28.3
+1156,YB13LTA,Ford Connect T230LWB van Van Small,Diesel,33161,4787,Miles,30.34
+1157,YB13LTO,Ford Connect T230LWB van Van Small,Diesel,46975,6385,Miles,30.81
+1158,YF13TKV,Ford Connect T230LWB van Van Small,Diesel,54347,7848,Miles,30.71
+1160,YF13EPK,Ford Connect T230LWB van Van Small,Diesel,48450,6013,Miles,30.74
+1162,YF13VCO,Ford Connect T230LWB van Van Small,Diesel,55048,7345,Miles,34.65
+1165,YF13VBO,Ford Connect T230LWB van Van Small,Diesel,60668,5867,Miles,28.6
+1166,YF13TNE,Ford Connect T230LWB van Van Small,Diesel,49338,5955,Miles,34.52
+1167,YF13VBX,Ford Connect T230LWB van Van Small,Diesel,57162,14865,Miles,31.1
+1168,YF13VBU,Ford Connect T230LWB van Van Small,Diesel,43753,3015,Miles,28.14
+1169,YF13EPD,Ford Connect T230LWB van Van Small,Diesel,58881,762,Miles,3.86
+1170,YA13YMT,Ford Connect T230LWB van Van Small,Diesel,61222,11680,Miles,36.74
+1172,YC14UTS,Peugeot Partner Van Small,Diesel,46131,6374,Miles,35.08
+1173,YC63MHZ,Volkswagen Caddy 80 CNG Van Small,CNG,25194,989,Miles,31.63
+1175,YL63CBX,Peugeot Partner Van Small,Diesel,34530,7170,Miles,42.64
+1176,YL63CBY,Peugeot Partner Van Small,Diesel,55912,9715,Miles,41.49
+1177,YL63CBV,Peugeot Partner Van Small,Diesel,26512,8234,Miles,46.64
+1178,YL63CCA,Peugeot Partner Van Small,Diesel,36908,3903,Miles,37.17
+1179,YD14UWS,Peugeot Partner Van Small,Diesel,43445,7421,Miles,43.06
+1180,YG14PGK,Peugeot Partner Van Small,Diesel,32663,4692,Miles,36.83
+1181,YG14PGO,Peugeot Partner Van Small,Diesel,26083,2680,Miles,28.76
+1182,YD14VPU,Ford Connect T200SWB van Van Small,Diesel,50726,6481,Miles,40.79
+1183,YD14VTN,Ford Connect T240LWB Van Van Small,Diesel,31447,7957,Miles,42.97
+1184,YD14VTP,Ford Connect T240LWB Van Van Small,Diesel,30333,4534,Miles,42.43
+1185,YG14FUV,Ford Connect T230LWB van Van Small,Diesel,22537,3264,Miles,35.95
+1186,YG14WWP,Ford Connect T240LWB Van Van Small,Diesel,70358,10252,Miles,39.15
+1187,YG14WXL,Ford Connect T240LWB Van Van Small,Diesel,70169,8628,Miles,44.49
+1188,YG14WWN,Ford Connect T240LWB Van Van Small,Diesel,34886,2453,Miles,38.28
+1189,YG14FUJ,Ford Connect T240LWB Van Van Small,Diesel,74026,12351,Miles,40
+1190,YG14WXJ,Ford Connect T240LWB Van Van Small,Diesel,67100,11444,Miles,39.59
+1192,YG14PFY,Peugeot Partner Van Small,Diesel,46272,5733,Miles,40.64
+1194,YB63URT,Peugeot Bipper Van Small,Diesel,45737,2279,Miles,38.88
+1195,YB63URU,Peugeot Bipper Van Small,Diesel,54546,8298,Miles,47.68
+1196,YB63URV,Peugeot Bipper Van Small,Diesel,24229,2522,Miles,43.44
+1201,YA16FXG,Peugeot Partner Van Small,Diesel,15262,4903,Miles,45.88
+1202,YL16RZT,Peugeot Partner Van Small,Diesel,15500,4139,Miles,41.08
+1203,YL16RZU,Peugeot Partner Van Small,Diesel,14360,4455,Miles,43.43
+1204,YL16RZV,Peugeot Partner Van Small,Diesel,10981,3294,Miles,41.92
+1206,YL16RZX,Peugeot Partner Van Small,Diesel,20878,6182,Miles,43.55
+1207,YL16ZFV,Peugeot Partner Van Small,Diesel,13846,5462,Miles,43.86
+1208,YL16ZFX,Peugeot Partner Van Small,Diesel,13448,3196,Miles,42.56
+1209,YL16ZFW,Peugeot Partner Van Small,Diesel,11907,3446,Miles,39.73
+1210,YL16ZFY,Peugeot Partner Van Small,Diesel,10915,2903,Miles,36.48
+1211,YL16ZFZ,Peugeot Partner Van Small,Diesel,22551,6140,Miles,39.48
+1212,YL16ZFT,Peugeot Partner Van Small,Diesel,89661,18800,Miles,44.24
+1213,YL16ZGA,Peugeot Partner Van Small,Diesel,100376,33900,Miles,49.64
+1214,YL16ZFS,Peugeot Partner Van Small,Diesel,12264,3184,Miles,38.97
+1216,YF16MYG,Peugeot Partner Van Small,Diesel,21065,5699,Miles,42.66
+1217,YF16MYD,Peugeot Partner Van Small,Diesel,13302,3816,Miles,41.97
+1218,YF16MYB,Peugeot Partner Van Small,Diesel,19181,5651,Miles,50.29
+1219,YF16MYA,Peugeot Partner Van Small,Diesel,23186,6195,Miles,45.32
+1220,YF16MYH,Peugeot Partner Van Small,Diesel,27472,9402,Miles,48.3
+1221,YF16ZYG,Peugeot Partner Van Small,Diesel,20968,6134,Miles,37.24
+1222,YF16ZYK,Peugeot Partner Van Small,Diesel,24365,7147,Miles,41.07
+1223,YF16ZYH,Peugeot Partner Van Small,Diesel,21883,4236,Miles,33.77
+1224,YF16ZYJ,Peugeot Partner Van Small,Diesel,25538,7266,Miles,49.19
+1225,YF16ZYO,Peugeot Partner Van Small,Diesel,27080,8864,Miles,47.25
+1226,YA16FXB,Peugeot Partner Van Small,Diesel,20611,4422,Miles,41.52
+1227,YA16FWY,Peugeot Partner Van Small,Diesel,21415,5901,Miles,46.96
+1228,YA16FWZ,Peugeot Partner Van Small,Diesel,10550,2716,Miles,43.02
+1229,YA16FXF,Peugeot Partner Van Small,Diesel,24236,7098,Miles,43.96
+1230,YK16DED,Peugeot Partner Van Small,Diesel,18827,6346,Miles,46.48
+1232,YK16DEM,Peugeot Partner Van Small,Diesel,96721,21302,Miles,46
+1233,YK16DEF,Peugeot Partner Van Small,Diesel,14989,2929,Miles,44.79
+1235,YK16DET,Peugeot Partner Van Small,Diesel,13572,2921,Miles,37.99
+1236,YD16NBC,Peugeot Partner Van Small,Diesel,32602,8379,Miles,42.96
+1301,YF61TNX,Volkswagen Tranporter 4 Motion Van Medium,Diesel,52580,2063,Miles,19.16
+1302,YF61TNK,Volkswagen Tranporter 4 Motion Van Medium,Diesel,70493,5511,Miles,28.95
+1305,YF61LWA,Peugeot Expert L2H1 90 Van Van Medium,Diesel,47832,5815,Miles,26.37
+1306,YF61LWD,Peugeot Expert L2H1 90 Van Van Medium,Diesel,59225,2036,Miles,27.25
+1307,YF61LWC,Peugeot Expert L2H1 90 Van Van Medium,Diesel,57878,3343,Miles,28.51
+1308,YF61LWE,Peugeot Expert L2H1 90 Van Van Medium,Diesel,42183,3303,Miles,25.58
+1310,YF61LWJ,Peugeot Expert L2H1 90 Van Van Medium,Diesel,74771,1754,Miles,27.36
+1311,YF61LWH,Peugeot Expert L2H1 90 Van Van Medium,Diesel,64385,8902,Miles,34.16
+1312,YF61LWK,Peugeot Expert L2H1 90 Van Van Medium,Diesel,53796,1896,Miles,28.33
+1313,YF61LWN,Peugeot Expert L2H1 90 Van Van Medium,Diesel,41436,2905,Miles,24.5
+1314,YF61LWM,Peugeot Expert L2H1 90 Van Van Medium,Diesel,63988,5433,Miles,44.12
+1316,YF61LWS,Peugeot Expert L2H1 90 Van Van Medium,Diesel,62296,5523,Miles,30.37
+1318,YF61LWZ,Peugeot Expert L2H1 90 Van Van Medium,Diesel,100090,5464,Miles,49.18
+1320,YF61LWP,Peugeot Expert L2H1 90 Van Van Medium,Diesel,55499,2623,Miles,23.42
+1322,YF61LWU,Peugeot Expert L2H1 90 Van Van Medium,Diesel,62705,5305,Miles,31.7
+1323,YF61LWW,Peugeot Expert L2H1 90 Van Van Medium,Diesel,57510,9243,Miles,35.89
+1324,YF61LWV,Peugeot Expert L2H1 90 Van Van Medium,Diesel,82248,7275,Miles,31.61
+1326,YF61LWL,Peugeot Expert L2H1 90 Van Van Medium,Diesel,64184,6195,Miles,32.77
+1327,YF61LXD,Peugeot Expert L2H1 90 Van Van Medium,Diesel,72389,1880,Miles,25.12
+1328,YF61LXE,Peugeot Expert L2H1 90 Van Van Medium,Diesel,31689,1812,Miles,16.81
+1329,YF61LXG,Peugeot Expert L2H1 90 Van Van Medium,Diesel,66334,6311,Miles,28.47
+1330,YF61LXB,Peugeot Expert L2H1 90 Van Van Medium,Diesel,37528,1585,Miles,24.1
+1331,YF61LXC,Peugeot Expert L2H1 90 Van Van Medium,Diesel,51815,2544,Miles,27.08
+1332,YF61LXA,Peugeot Expert L2H1 90 Van Van Medium,Diesel,62387,4901,Miles,33.9
+1333,YG62YWW,Ford Transit 280SWB van Van Medium,Diesel,49929,7820,Miles,30.98
+1334,YG62YXO,Ford Transit 280SWB van Van Medium,Diesel,71003,12432,Miles,35.78
+1337,YG62YYL,Ford Transit 280SWB van Van Medium,Diesel,52108,7555,Miles,27.42
+1338,YB62URY,Ford Transit 280SWB van Van Medium,Diesel,97963,10107,Miles,29.3
+1339,YJ13ZBL,Ford Transit 280SWB van Van Medium,Diesel,47207,8814,Miles,27.05
+1340,YD13GPX,Ford Transit 280SWB van Van Medium,Diesel,53029,6512,Miles,25.82
+1341,YG13OAJ,Ford Transit 280SWB van Van Medium,Diesel,38002,4555,Miles,22.59
+1342,YD13BXE,Ford Transit 280SWB van Van Medium,Diesel,52163,4704,Miles,22.34
+1343,YJ13ZKW,Ford Transit 280SWB van Van Medium,Diesel,55993,6172,Miles,27.67
+1344,YG13FHR,Ford Transit 280SWB van Van Medium,Diesel,46453,4455,Miles,28.14
+1345,YJ13ZMX,Ford Transit 280SWB van Van Medium,Diesel,49626,3523,Miles,23.87
+1346,YJ13ZHX,Ford Transit 280SWB van Van Medium,Diesel,47002,3439,Miles,21.76
+1347,YG13OEW,Ford Transit 280SWB van Van Medium,Diesel,39587,2130,Miles,21.85
+1348,YG13OAY,Ford Transit 280SWB van Van Medium,Diesel,62523,6136,Miles,30
+1350,YD13GPZ,Ford Transit 280SWB van Van Medium,Diesel,45483,5515,Miles,25.26
+1351,YC13DXJ,Ford Transit 280SWB van Van Medium,Diesel,31981,4915,Miles,26.51
+1352,YC13HVZ,Ford Transit 280SWB van Van Medium,Diesel,53458,7131,Miles,30.51
+1353,YC13DVJ,Ford Transit 280SWB van Van Medium,Diesel,42904,2105,Miles,22.95
+1355,YC13DNJ,Ford Transit 280SWB van Van Medium,Diesel,42923,3317,Miles,24.99
+1358,YC13DYP,Ford Transit 280SWB van Van Medium,Diesel,52066,3399,Miles,22.48
+1359,YL66UWA,Volkswagen Tranporter 4 Motion Van Medium,Diesel,24567,9803,Miles,31.82
+1435,YB07UGO,Ford Transit 280SWB van Van Medium,Diesel,97007,8385,Miles,28.17
+1453,YG57SOE,Ford Transit 280SWB van Van Medium,Diesel,73630,4108,Miles,24.51
+1454,YH57DSY,Ford Transit 280SWB van Van Medium,Diesel,101829,6884,Miles,21.23
+1477,YB13LSL,Ford Transit T300 Van Van Medium,Diesel,34807,5770,Miles,27.06
+1478,YB13LUA,Ford Transit 300 Van Van Medium,Diesel,51118,2473,Miles,23.02
+1479,YB13LSV,Ford Transit 300 Van Van Medium,Diesel,74514,5275,Miles,26.39
+1480,YB13LTT,Ford Transit 300 Van Van Medium,Diesel,46571,4077,Miles,23.83
+1481,YB13VBP,Ford Transit 300 CCab Van Van Medium,Diesel,54032,7288,Miles,26.25
+1482,YL63CEF,Peugeot Expert L2H1 90 Van Van Medium,Diesel,56458,6117,Miles,36.75
+1483,YL63CCE,Peugeot Expert L2H1 90 Van Van Medium,Diesel,51652,9074,Miles,35.26
+1484,YL63CCF,Peugeot Expert L2H1 90 Van Van Medium,Diesel,32823,4917,Miles,34.05
+1486,YG14SBO,Peugeot Expert L1H1 90 Van Van Medium,Diesel,59968,8888,Miles,35.93
+1501,YL63CCJ,Peugeot Expert L2H1 90 Van Van Medium,Diesel,37204,6444,Miles,33.29
+1502,YL63CCK,Peugeot Expert L2H1 90 Van Van Medium,Diesel,33194,3308,Miles,27.07
+1503,YL63CCN,Peugeot Expert L2H1 90 Van Van Medium,Diesel,50129,8561,Miles,33.49
+1504,YF63HBX,Peugeot Expert L2H1 90 Van Van Medium,Diesel,56969,7202,Miles,29.84
+1505,YL63CEA,Peugeot Expert L2H1 90 Van Van Medium,Diesel,45960,4043,Miles,36.64
+1506,YL63CEN,Peugeot Expert L2H1 90 Van Van Medium,Diesel,51400,6283,Miles,30.78
+1507,YL63CEO,Peugeot Expert L2H1 90 Van Van Medium,Diesel,56114,8553,Miles,31.07
+1508,YL63CEU,Peugeot Expert L2H1 90 Van Van Medium,Diesel,43336,5899,Miles,29.47
+1509,YL63CEV,Peugeot Expert L2H1 90 Van Van Medium,Diesel,70700,4850,Miles,30.49
+1510,YL63CEX,Peugeot Expert L2H1 90 Van Van Medium,Diesel,30969,3533,Miles,32.15
+1511,YL63CEY,Peugeot Expert L2H1 90 Van Van Medium,Diesel,43903,6533,Miles,28.98
+1513,YL63CHK,Peugeot Expert L2H1 90 Van Van Medium,Diesel,39293,5951,Miles,35.98
+1514,YL63CHN,Peugeot Expert L2H1 90 Van Van Medium,Diesel,48697,2237,Miles,28.4
+1515,YL63CHO,Peugeot Expert L2H1 90 Van Van Medium,Diesel,32340,4450,Miles,40.38
+1516,YL63CHV,Peugeot Expert L2H1 90 Van Van Medium,Diesel,29996,4187,Miles,30.87
+1517,YL63CHX,Peugeot Expert L2H1 90 Van Van Medium,Diesel,64861,9740,Miles,32.53
+1518,YL63CHY,Peugeot Expert L2H1 90 Van Van Medium,Diesel,44153,6097,Miles,31.92
+1519,YA14WSF,Peugeot Expert L2H1 90 Van Van Medium,Diesel,81067,16912,Miles,29.49
+1520,YF15ZHP,Ford Transit Custom 290L1 Van Medium,Diesel,27805,4210,Miles,25.58
+1521,YB15DMU,Ford Transit Custom 290L1 Van Medium,Diesel,36927,7641,Miles,27.56
+1522,YF15ZGC,Ford Transit Custom 290L1 Van Medium,Diesel,20552,4808,Miles,23.81
+1523,YB15DNJ,Ford Transit Custom 290L1 Van Medium,Diesel,25120,4637,Miles,24.8
+1524,YB15DKD,Ford Transit Custom 290L1 Van Medium,Diesel,33777,5327,Miles,23.37
+1525,YB15DKF,Ford Transit Custom 290L1 Van Medium,Diesel,38446,8289,Miles,30.61
+1526,YB15DKJ,Ford Transit Custom 290L1 Van Medium,Diesel,19378,8260,Miles,33.55
+1527,YF15ZFZ,Ford Transit Custom 290L1 Van Medium,Diesel,36888,6390,Miles,28.26
+1528,YB15DLF,Ford Transit Custom 290L1 Van Medium,Diesel,22273,4566,Miles,25.47
+1529,YE15VNW,Ford Transit Custom 290L1 Van Medium,Diesel,39307,7895,Miles,27.35
+1530,YB15DND,Ford Transit Custom 290L1 Van Medium,Diesel,17643,5053,Miles,28.42
+1531,YB15DKV,Ford Transit Custom 290L1 Van Medium,Diesel,35335,7120,Miles,29.73
+1532,YF15LLW,Ford Transit Custom 290L1 Van Medium,Diesel,23917,4245,Miles,25.66
+1533,YF15LSE,Ford Transit Custom 290L1 Van Medium,Diesel,30831,3957,Miles,25.54
+1534,YB15DMY,Ford Transit Custom 290L1 Van Medium,Diesel,22480,3730,Miles,25.53
+1535,YB15DKX,Ford Transit Custom 290L1 Van Medium,Diesel,18362,3096,Miles,23.92
+1536,YB15DLK,Ford Transit Custom 290L1 Van Medium,Diesel,22063,5581,Miles,25.48
+1537,YB15DNO,Ford Transit Custom 290L1 Van Medium,Diesel,31023,6258,Miles,25.59
+1538,YB15DLY,Ford Transit Custom 290L1 Van Medium,Diesel,14292,2311,Miles,20.72
+1540,YB15DLZ,Ford Transit Custom 290L1 Van Medium,Diesel,18881,3574,Miles,25.64
+1541,YF15LLA,Ford Transit Custom 290L1 Van Medium,Diesel,39030,12951,Miles,33.17
+1543,YF15LUD,Ford Transit Custom 290L1 Van Medium,Diesel,31240,5859,Miles,26.18
+1544,YF15LJN,Ford Transit Custom 290L1 Van Medium,Diesel,31848,5522,Miles,23.91
+1545,YF15LRJ,Ford Transit Custom 290L1 Van Medium,Diesel,28328,7361,Miles,28.46
+1546,YF15LPE,Ford Transit Custom 290L1 Van Medium,Diesel,40970,8284,Miles,25.87
+1547,YF15LWO,Ford Transit Custom 290L1 Van Medium,Diesel,27381,2603,Miles,26.9
+1548,YF15LJY,Ford Transit Custom 290L1 Van Medium,Diesel,23841,4477,Miles,24.98
+1549,YE15VFD,Ford Transit Custom 290L1 Van Medium,Diesel,38040,8001,Miles,24.06
+1550,YF15LNU,Ford Transit Custom 290L1 Van Medium,Diesel,43236,9627,Miles,30.74
+1551,YF15LKN,Ford Transit Custom 290L1 Van Medium,Diesel,33032,7227,Miles,27.73
+1552,YF15LLK,Ford Transit Custom 290L1 Van Medium,Diesel,20118,4045,Miles,27.99
+1553,YF15LWU,Ford Transit Custom 290L1 Van Medium,Diesel,31331,5452,Miles,22.11
+1554,YF15LKJ,Ford Transit Custom 290L1 Van Medium,Diesel,98897,16572,Miles,32.74
+1555,YF15LKE,Ford Transit Custom 290L1 Van Medium,Diesel,43838,9485,Miles,28.29
+1556,YF15LLV,Ford Transit Custom 290L1 Van Medium,Diesel,26632,5164,Miles,29.54
+1557,YB15ZZN,Ford Transit Custom 290L1 Van Medium,Diesel,34934,7760,Miles,28.43
+1558,YA15AHL,Ford Transit Custom 290L1 Van Medium,Diesel,29439,5773,Miles,21.53
+1559,YA15GPO,Ford Transit Custom 290L1 Van Medium,Diesel,27389,4547,Miles,27.37
+1560,YA15GPK,Ford Transit Custom 290L1 Van Medium,Diesel,21156,4200,Miles,24.99
+1561,YF15LNW,Ford Transit Custom 290L1 Van Medium,Diesel,34044,6936,Miles,26.42
+1562,YJ16EGW,Ford Transit Custom 290L1 Van Medium,Diesel,12879,3745,Miles,25.76
+1563,YJ16EGM,Ford Transit Custom 290L1 Van Medium,Diesel,29764,9873,Miles,29.85
+1564,YJ16EJR,Ford Transit Custom 290L1 Van Medium,Diesel,9811,1828,Miles,26
+1565,YJ16MTS,Ford Transit Custom 290L1 Van Medium,Diesel,13007,3007,Miles,27.23
+1566,YJ16EJP,Ford Transit Custom 290L1 Van Medium,Diesel,15811,5050,Miles,25.78
+1567,YJ16EGS,Ford Transit Custom 290L1 Van Medium,Diesel,22130,5637,Miles,24.87
+1568,YJ16MTP,Ford Transit Custom 290L1 Van Medium,Diesel,13157,4554,Miles,21.26
+1569,YJ16MTC,Ford Transit Custom 290L1 Van Medium,Diesel,29000,5405,Miles,29.48
+1570,YJ16MSS,Ford Transit Custom 290L1 Van Medium,Diesel,17392,3874,Miles,28.4
+1571,YJ16MSW,Ford Transit Custom 290L1 Van Medium,Diesel,26074,7382,Miles,28.73
+1572,YJ16EEK,Ford Transit Custom 290L1 Van Medium,Diesel,14160,4363,Miles,25.29
+1573,YJ16CBK,Ford Transit Custom 290L1 Van Medium,Diesel,16405,5397,Miles,24.26
+1574,YJ16CBZ,Ford Transit Custom 290L1 Van Medium,Diesel,28656,7656,Miles,31.83
+1575,YJ16MSZ,Ford Transit Custom 290L1 Van Medium,Diesel,10890,3495,Miles,23
+1576,YJ16EGT,Ford Transit Custom 290L1 Van Medium,Diesel,15937,4334,Miles,27.37
+1577,YJ16EJT,Ford Transit Custom 290L1 Van Medium,Diesel,14147,3638,Miles,26.22
+1578,YJ16EJS,Ford Transit Custom 290L1 Van Medium,Diesel,16593,4482,Miles,26.99
+1579,YJ16MTL,Ford Transit Custom 290L1 Van Medium,Diesel,13796,3966,Miles,26.9
+1580,YJ16MTW,Ford Transit Custom 290L1 Van Medium,Diesel,20822,5329,Miles,28.84
+1581,YJ16EGA,Ford Transit Custom 290L1 Van Medium,Diesel,19677,5019,Miles,28.41
+1582,YJ16MSR,Ford Transit Custom 290L1 Van Medium,Diesel,25701,10248,Miles,27.69
+1583,YJ16MUR,Ford Transit Custom 290L1 Van Medium,Diesel,18254,5651,Miles,30.25
+1584,YJ16MSP,Ford Transit Custom 290L1 Van Medium,Diesel,26765,10000,Miles,32.69
+1585,YJ16EJB,Ford Transit Custom 290L1 Van Medium,Diesel,16744,6585,Miles,25.26
+1586,YJ16EHA,Ford Transit Custom 290L1 Van Medium,Diesel,30761,10740,Miles,28.22
+1587,YJ16EED,Ford Transit Custom 290L1 Van Medium,Diesel,21708,3765,Miles,26.49
+1588,YJ16MTR,Ford Transit Custom 290L1 Van Medium,Diesel,39806,13373,Miles,33.02
+1590,YL16ZXD,Ford Transit Custom 290L1 Van Medium,Diesel,13391,3405,Miles,24.91
+1591,YL16ZYA,Ford Transit Custom 290L1 Van Medium,Diesel,21411,6306,Miles,28.33
+1592,YL16ZXB,Ford Transit Custom 290L1 Van Medium,Diesel,27267,7931,Miles,29.28
+1593,YL16XVT,Ford Transit Custom 290L1 Van Medium,Diesel,17430,3256,Miles,26.02
+1594,YL16ZXE,Ford Transit Custom 290L1 Van Medium,Diesel,25812,7985,Miles,28.77
+1595,YD16MGT,Ford Transit Custom 290L1 Van Medium,Diesel,21685,7347,Miles,27.29
+1596,YL16ZXW,Ford Transit Custom 290L1 Van Medium,Diesel,25747,8489,Miles,30.13
+1597,YH66UPG,Ford Transit Custom 290L1 Van Medium,Diesel,23685,5516,Miles,30.54
+1598,YH66UPF,Ford Transit Custom 290L1 Van Medium,Diesel,11886,4687,Miles,28.33
+1600,YH66UPJ,Ford Transit Custom 290L1 Van Medium,Diesel,27102,9269,Miles,31.87
+1602,YL66AWR,Ford Transit Custom 290L1 Van Medium,Diesel,14940,6323,Miles,28.41
+1725,YH10CAX,Ford Transit 330SWB van Van Medium,Diesel,82997,3917,Miles,30.23
+1727,YH10YAU,Ford Transit 330SWB van Van Medium,Diesel,36577,2608,Miles,22.06
+1728,YH10PNZ,Ford Transit 330SWB van Van Medium,Diesel,82374,5699,Miles,23.87
+1730,YC10FCL,Ford Transit 330SWB van Van Medium,Diesel,81908,7805,Miles,25.43
+1739,YF13HZJ,Ford Transit 100SWB van Van Medium,Diesel,33302,3957,Miles,24.63
+1740,YB13VYK,Ford Transit 100SWB van Van Medium,Diesel,56983,6130,Miles,28.01
+1741,YF13WXN,Ford Transit 100SWB van Van Medium,Diesel,46251,7700,Miles,26.9
+1742,YF13WYO,Ford Transit 100SWB van Van Medium,Diesel,60925,9989,Miles,23.79
+1749,YF13TKX,Ford Transit 100 T350 MWB Van Medium,Diesel,69765,8847,Miles,24.97
+1750,YL63CMY,Peugeot Boxer 330 Van Van Medium,Diesel,60347,7061,Miles,26.56
+1800,YG17FWW,Iveco Iveco Daily 35C12 Van Large,Diesel,19690,10273,Miles,22.92
+1801,YH17VCG,Peugeot Boxer 335 Van Van Large,Diesel,20253,9845,Miles,25.33
+1802,MW17UYJ,Vauxhall Movano Panel Van Van Large,Diesel,9458,3837,Miles,22.61
+1803,MW17UYK,Vauxhall Movano Panel Van Van Large,Diesel,29807,16112,Miles,27.51
+1865,YH07UUP,Ford Transit 350L HR van Van Large,Diesel,7225,151,Miles,8.9
+1866,MK16YUY,Vauxhall Movano Panel Van Van Large,Diesel,20225,5401,Miles,25.64
+1874,YL08KHP,Ford Transit 350L HR van Van Large,Diesel,63764,7253,Miles,22.14
+1879,YH09VPC,Ford Transit 350L HR van Van Large,Diesel,64137,2876,Miles,22.27
+1880,YH09VOY,Ford Transit 350L HR van Van Large,Diesel,118522,9715,Miles,26.56
+1881,YH09OSE,Ford Transit 350EF van Van Large,Diesel,57153,6533,Miles,22.82
+1882,YC09DWO,Ford Transit 350EF van Van Large,Diesel,78669,6220,Miles,21.31
+1890,YF13WCP,Ford Transit 350L MR van Van Large,Diesel,72117,7267,Miles,26.13
+1891,YL63CEJ,Peugeot Boxer 335 Van Van Large,Diesel,83926,9778,Miles,25.75
+1893,YG14RZV,Peugeot Boxer 335 Van Van Large,Diesel,51199,6714,Miles,23.7
+1894,YD14UWB,Peugeot Boxer 335 Van Van Large,Diesel,51176,6256,Miles,22.68
+1895,YG14RZW,Peugeot Boxer Van Large,Diesel,75257,8411,Miles,23.61
+1896,YG14RZX,Peugeot Boxer Van Large,Diesel,83209,11506,Miles,24.01
+1937,YH05HXR,Ford Transit 350 DS WASH Flatback to 3.5t,Diesel,76599,4163,Miles,14.75
+1948,YE07FBN,Ford Transit 350M Tip T/L Tipper to 3.5t,Diesel,133085,4555,Miles,20.39
+1955,YB57ZKL,Ford Transit 350L tipper Tipper to 3.5t,Diesel,78981,3646,Miles,18.77
+1960,YE12PHV,Peugeot Boxer Tipper to 3.5t,Diesel,40497,6219,Miles,25.85
+1961,YC12UFR,Peugeot Boxer Tipper to 3.5t,Diesel,49452,14241,Miles,29.06
+1962,YJ63UWY,Ford Transit 350M Dside Flatback to 3.5t,Diesel,34967,5532,Miles,23
+1963,YJ63UUZ,Ford Transit 350M Dside Flatback to 3.5t,Diesel,46380,1588,Miles,15.51
+1964,YJ14SJU,Peugeot Boxer 335 Tipper T/L Flatback to 3.5t,Diesel,51451,2099,Miles,22.83
+1965,YJ65HWD,Peugeot Boxer 335 Tipper T/L Flatback to 3.5t,Diesel,31083,4103,Miles,23.83
+1966,YB65WZP,Ford Transit 350M Dside Flatback to 3.5t,Diesel,32591,6475,Miles,22.76
+1967,YB65NSZ,Ford Transit 350L tipper Tipper to 3.5t,Diesel,36327,8909,Miles,25.53
+1968,YF65BZH,Ford Transit 350L tipper Tipper to 3.5t,Diesel,31317,6586,Miles,18.41
+1969,YF65VVH,Ford Transit 350L tipper Tipper to 3.5t,Diesel,46800,13128,Miles,23.33
+1970,YH17UAP,Ford Transit 350M DS T/L Flatback to 3.5t,Diesel,12286,4904,Miles,24.82
+1971,YH17UBG,Ford Transit 350M Tip T/L Flatback to 3.5t,Diesel,26755,11850,Miles,26.99
+1972,YH17TXC,Ford Transit 350L DS T/L Flatback to 3.5t,Diesel,5189,2132,Miles,21.4
+1973,YB66XRY,Ford Transit 350L Dside Flatback to 3.5t,Diesel,14879,5064,Miles,21.7
+1974,YB66XNC,Ford Transit 350L Dside Flatback to 3.5t,Diesel,17694,8529,Miles,25.89
+1975,YB17CUV,Ford Transit 350M Dside T/L Flatback to 3.5t,Diesel,5986,2059,Miles,19.79
+2211,YG08XBT,Ford Transit 350EF BoxVan Luton,Diesel,107352,3399,Miles,19.79
+2217,YJ58OUA,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,19462,771,Miles,12.16
+2218,YJ58OTZ,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,18428,674,Miles,11.78
+2219,YJ58OTY,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,25942,959,Miles,15.58
+2220,YG58LZC,Ford Transit 350EF BoxVan Luton,Diesel,92506,5863,Miles,19.54
+2221,YJ58BDU,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,21475,2921,Miles,20.41
+2222,YJ58OTG,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,46722,3661,Miles,30.23
+2223,YJ60CZS,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,24865,2089,Miles,30.83
+2224,YJ60CZT,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,12213,1597,Miles,15.88
+2225,YJ60MSV,Iveco 35S12 LWB HR Meeting Mobile Meeting room,Diesel,8613,391,Miles,8.71
+2226,YJ14SVN,Peugeot Boxer Luton,Diesel,45069,7216,Miles,20.9
+2227,YJ14SVL,Peugeot Boxer Luton,Diesel,40607,8665,Miles,22
+2607,MV67KYC,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,12712,8290,Miles,19.89
+2608,MV67KYF,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,12815,7748,Miles,16.07
+2609,MV67KYN,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,16143,11123,Miles,20.88
+2610,MV67KXW,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,23144,12591,Miles,17.85
+2611,MV67KXX,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,16883,8557,Miles,19.21
+2612,MV67KVS,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,10678,5328,Miles,17.02
+2613,MV67KVH,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,23571,13001,Miles,17.85
+2614,MV67KVJ,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,11537,4787,Miles,19.37
+2615,MV67KXN,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,18568,9805,Miles,17.77
+2616,MV67KXU,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,21555,11519,Miles,19.14
+2617,MV67KWN,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,9507,4782,Miles,17.95
+2618,MV67KTA,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,11677,5662,Miles,19.67
+2619,MV67KTL,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,16938,8024,Miles,18.58
+2620,MV17CVW,Vauxhall MOVANO L3H1 CC Tip 3.5t CC Tipper,Diesel,14161,6944,Miles,18.64
+2623,YK06YZV,Ford Transit 350LCCtipper 3.5t CC Tipper,Diesel,103772,304,Miles,10.58
+2680,YC63CUV,Ford Transit 350CC Tip TL 3.5t CC Tipper,Diesel,73646,8712,Miles,28.43
+2713,YB63HHA,Ford Transit 350CC Tipper to 3.5t,Diesel,52507,7520,Miles,22.49
+2723,YB63HGD,Ford Transit 350CC Tipper to 3.5t,Diesel,46942,5040,Miles,21.38
+2734,YJ14SJY,Peugeot Boxer CCab Tipper 3.5t CC Tipper,Diesel,35460,5644,Miles,18.88
+2735,YJ14SJV,Peugeot Boxer CCab Tipper 3.5t CC Tipper,Diesel,18663,2715,Miles,16.77
+3104,YJ58OTF,Iveco 65C18CC Tip T/L Tipper 3.5t - 7.5t,Diesel,122588,816,Miles,18.03
+3114,YG14LGA,Volkswagen Crafter CR50 CC Tip Tipper 3.5t - 7.5t,Diesel,19613,2156,Miles,15
+3115,YG14LFX,Volkswagen Crafter CR50 Tip T/L Tipper 3.5t - 7.5t,Diesel,27209,2454,Miles,16.91
+3116,YF17CHO,Ford Ford Transit T470 Tipper 3.5t - 7.5t,Diesel,9751,4648,Miles,21.3
+3117,YF17PRZ,Ford Ford Transit T470 Tipper 3.5t - 7.5t,Diesel,5374,2156,Miles,18.78
+3118,YF17CJE,Ford Ford Transit T470 Tipper 3.5t - 7.5t,Diesel,23483,9983,Miles,21
+3201,YF67OJV,Iveco Daily 50C15 Hyd Plat Hyd Access Platform,Diesel,3409,2905,Miles,17.81
+3301,YJ10LCG,Iveco Daily 65C18A Mobile Library,Diesel,97150,7203,Miles,23.26
+3303,NX56BZY,Leyland DAF Ley Daf FA45 Library Mobile Library,Diesel,141589,4875,Miles,20.27
+3304,NX56CCV,Leyland DAF Ley Daf FA45 Library Mobile Library,Diesel,132653,6596,Miles,20.89
+3305,KE53ENK,Mercedes Atego Mobile Library Mobile Library,Diesel,77880,1681,Miles,14.95
+3310,YJ09DZG,Iveco Ford Cargo75E/G Library Mobile Library,Diesel,100753,6224,Miles,18.68
+3311,YG14YBA,Mercedes Atego Mobile Library Mobile Library,Diesel,39290,4938,Miles,17.92
+3312,PO14FNC,Renault Midlum 180.0 Midlum 180.08 Mobile Library,Diesel,36419,7213,Miles,18.77
+3326,BX07ZPK,Renault Master 150.35c Mobile Library,Diesel,70447,3043,Miles,17.01
+3412,YJ07BLZ,Iveco ML75E16K 7.5t Tip TL Tipper 7.5t,Diesel,64236,2348,Miles,18.27
+3419,YJ07ZVB,Iveco ML75E16K 7.5t Tip TL Tipper 7.5t ,Diesel,135518,1183,Miles,16.16
+3431,YJ10KWK,Ford Cargo 75E Tipper Tipper 7.5t,Diesel,3930,3058,Miles,17.11
+3432,YC63WSY,Mitsubishi Cantor 7.5t Tipper Tipper 7.5t,Diesel,24356,3640,Miles,13.87
+3433,YC63WSV,Mitsubishi Cantor 7.5t Tipper Tipper 7.5t,Diesel,55165,9626,Miles,27.22
+3434,YC63WSW,Mitsubishi Cantor 7.5t Tipper Tipper 7.5t,Diesel,15961,3981,Miles,16.5
+3439,YD67KFU,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,2968,2442,Miles,14.43
+3441,YD67JBV,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,25680,20414,Miles,29.88
+3442,YD67JBX,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,12139,7100,Miles,15.99
+3443,YD67JBY,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,9368,5631,Miles,15.8
+3444,YD67JBZ,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,11607,6558,Miles,16.34
+3445,YD67JCJ,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,16002,11500,Miles,14.16
+3446,YD67JCO,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,18985,11793,Miles,24.71
+3447,YD67JCV,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,11646,7574,Miles,15.34
+3448,YD67JCX,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,11197,8234,Miles,16.85
+3449,YD67JNJ,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,8611,6506,Miles,17.19
+3450,YD67KGA,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,10726,6880,Miles,13.97
+3451,YD67KGE,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,12129,6826,Miles,16.8
+3452,YD67KGF,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,5783,4060,Miles,13.98
+3453,YD67KGJ,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,11175,8075,Miles,16.51
+3454,YD67KGK,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,6946,3663,Miles,14.43
+3456,YD67KGO,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,12046,8138,Miles,15.3
+3457,YD67KGP,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,12331,7270,Miles,15.31
+3458,YD67KGX,Fuso Canter 7C15 HEV Tipper 7.5t,Diesel,12952,6405,Kilometres,6.85
+3501,PE63VRG,Renault Midlum 7.5 Tip Grit Tipper 7.5t,Diesel,54796,4712,Miles,16.71
+3502,PE63VRK,Renault Midlum 7.5 Tip Grit Tipper 7.5t,Diesel,46472,6056,Miles,15.72
+3503,PE63VRJ,Renault Midlum 7.5 Tip Grit Tipper 7.5t,Diesel,32386,5438,Miles,17.82
+3504,YH68EBA,Iveco Daily Flatback over 3.5T,CNG,287,195,Miles,8.92
+3505,YH68DXT,Iveco Daily Graffeti,CNG,433,305,Miles,10.15
+3803,PO14FNE,Renault Midlum 220 dxi Flatback over 7.5t,Diesel,21049,327,Miles,6.09
+3901,YJ66VYU,Mercedes Arocs 2635K Tipper over 7.5t,Diesel,10077,2151,Miles,5.88
+3905,PO14FND,Renault Premium Tipper over 7.5t,Diesel,53426,3598,Miles,7.91
+4100,YK56CDY,Ford Transit 430 LWB WASH Van 3.5t - 7.5t,Diesel,46871,2938,Miles,8.86
+4315,PN07VVX,Renault Midlum 240.18 Tipper 18t Demount,Gasoil,121675,620,Miles,8.49
+4316,PN07VVZ,Renault Midlum 240.18 Tipper 18t Demount,Gasoil,117963,1206,Miles,9.13
+4384,MF51HKK,Leyland DAF LF 55 Bulk Gritter,Gasoil,423328,570,Miles,8.36
+4400,YT60VHY,Mercedes Econic 4 Axle Bin,Diesel,114802,8279,Kilometres,1.91
+4401,YF63HWC,Mercedes  Econic 3 Axle Bin,Diesel,119048,19522,Kilometres,3.47
+4402,YF63HWB,Mercedes Econic 3 Axle Bin,Diesel,89507,11951,Kilometres,2.81
+4403,YF63HWP,Mercedes Econic 3 Axle Bin,Diesel,99614,13593,Kilometres,2.74
+4404,YF63HWJ,Mercedes Econic 3 Axle Bin,Diesel,84953,10253,Kilometres,2.63
+4405,YF63HWE,Mercedes Econic 3 Axle Bin,Diesel,91738,11753,Kilometres,2.83
+4406,YF63HWG,Mercedes Econic 3 Axle Bin,Diesel,82335,10478,Kilometres,2.32
+4407,YF63HWH,Mercedes Econic 3 Axle Bin,Diesel,90794,13879,Kilometres,2.98
+4408,YF63HWD,Mercedes Econic 3 Axle Bin,Diesel,92627,13508,Kilometres,2.88
+4409,YF63HWR,Mercedes Econic 3 Axle Bin,Diesel,102037,14295,Kilometres,3.04
+4410,YF63HWA,Mercedes Econic 3 Axle Bin,Diesel,104713,14410,Kilometres,3.1
+4411,YF63HWM,Mercedes Econic 3 Axle Bin,Diesel,89324,11555,Kilometres,2.74
+4412,YF63HWN,Mercedes Econic 3 Axle Bin,Diesel,85567,11030,Kilometres,2.55
+4413,YF63HWS,Mercedes Econic 3 Axle Bin,Diesel,88049,13130,Kilometres,3.13
+4414,YF63HWO,Mercedes Econic 3 Axle Bin,Diesel,78143,9870,Kilometres,2.36
+4415,YF63HWK,Mercedes  Econic 3 Axle Bin,Diesel,94990,14007,Kilometres,3.59
+4416,YF63HWL,Mercedes Econic 3 Axle Bin,Diesel,93033,11135,Kilometres,3.16
+4417,VX14LLV,Dennis Eagle Elite 3 Axle Bin,Diesel,60440,9342,Kilometres,2.83
+4418,VX14LLW,Dennis Eagle Elite 3 Axle Bin,Diesel,93365,7787,Kilometres,2.28
+4419,YK15GPF,Mercedes Econic 3 Axle Bin,Diesel,75182,14918,Kilometres,3.35
+4420,YK15GPJ,Mercedes Econic 3 Axle Bin,Diesel,42330,8992,Kilometres,1.9
+4421,YK15GPU,Mercedes Econic 3 Axle Bin,Diesel,38595,7664,Kilometres,1.85
+4423,YK15GOP,Mercedes Econic 3 Axle Bin,Diesel,57550,11293,Kilometres,2.12
+4424,YK15GOU,Mercedes Econic 3 Axle Bin,Diesel,45831,9202,Kilometres,2.05
+4425,YK15GPE,Mercedes Econic 3 Axle Bin,Diesel,59423,12303,Kilometres,2.38
+4426,YK15GPV,Mercedes Econic 3 Axle Bin,Diesel,52162,26757,Kilometres,6.75
+4427,YK15GPO,Mercedes Econic 3 Axle Bin,Diesel,38428,8028,Kilometres,1.86
+4428,YK15GPX,Mercedes Econic 3 Axle Bin,Diesel,64264,10852,Kilometres,3.3
+4429,YK15HNZ,Mercedes Econic 2 Axle Bin,Diesel,57890,12345,Kilometres,3.71
+4431,YK15VVS,Daf LF220 2 Axle Bin,Diesel,105522,21206,Kilometres,6.04
+4432,YK15VVR,Daf LF220 2 Axle Bin,Diesel,71390,15378,Kilometres,6.58
+4433,YJ65DJF,Mercedes Econic 4 Axle Bin,Diesel,67029,17262,Kilometres,2.85
+4434,YJ65DJD,Mercedes Econic 4 Axle Bin,Diesel,70596,37709,Kilometres,6.76
+4436,YJ16ZWD,Mercedes Econic 3 Axle Bin,Diesel,27449,7222,Kilometres,1.65
+4437,YJ16 ZWB,Mercedes Econic 3 Axle Bin,Diesel,35527,9710,Kilometres,2.16
+4439,YJ16 ZWK,Mercedes Econic 3 Axle Bin,Diesel,34346,9314,Kilometres,2.12
+4440,YJ16 ZWL,Mereecdes Econic 3 Axle Bin,Diesel,31894,9168,Kilometres,2.59
+4441,YJ16 ZWM,Mercedes Econic 3 Axle Bin,Diesel,24975,6793,Kilometres,1.9
+4442,YJ16 ZWP,Mercedes Econic 3 Axle Bin,Diesel,53782,14853,Kilometres,3.31
+4443,YJ16 ZWR,Mercedes Econic 3 Axle Bin,Diesel,26821,7254,Kilometres,1.8
+4444,YJ16 ZWS,Mercedes Econic 3 Axle Bin,Diesel,25427,6764,Kilometres,1.76
+4445,YJ16 ZWE,Mercedes Econic 3 Axle Bin,Diesel,49416,11136,Kilometres,2.63
+4446,YJ16ZWF,Mercedes Econic 3 Axle Bin,Diesel,44996,11330,Kilometres,2.32
+4447,YJ16ZWG,Mercedes Econic 3 Axle Bin,Diesel,65172,15833,Kilometres,3.32
+4448,YJ16ZWH,Mercedes Econic 3 Axle Bin,Diesel,46280,12588,Kilometres,2.25
+4449,VX16ASZ,Dennis Elite 3 Axle Bin,Diesel,57605,16020,Kilometres,3.99
+4450,VX16 ATF,Dennis Elite 3 Axle Bin,Diesel,51880,16261,Kilometres,4.03
+4451,VX16 ATK,Dennis Elite 3 Axle Bin,Diesel,36574,9651,Kilometres,2.74
+4452,VN17DJE,Dennis Dennis Mun RCV 3 Axle Bin,Diesel,41373,19128,Miles,7.93
+4453,VN17DJF,Dennis Dennis Mun RCV 3 Axle Bin,Diesel,45223,23706,Miles,7.52
+4454,VN17DJJ,Dennis Dennis Mun RCV 3 Axle Bin,Diesel,39214,21062,Miles,7.59
+4474,YK59HYC,Mercedes Econic 3 Axle Bin,Diesel,190004,10125,Kilometres,2.85
+4475,YK59HXX,Mercedes Econic 3 Axle Bin,Diesel,169783,12890,Kilometres,3.31
+4476,YK59HYA,Mercedes Econic 3 Axle Bin,Diesel,169710,11786,Kilometres,3.13
+4477,YK59HXY,Mercedes Econic 3 Axle Bin,Diesel,163966,10641,Kilometres,3.15
+4478,YK59HXZ,Mercedes Econic 3 Axle Bin,Diesel,148669,11474,Kilometres,3.3
+4480,YK59HYF,Mercedes Econic 3 Axle Bin,Diesel,156265,12148,Kilometres,2.95
+4481,YE11YHB,Mercedes Econic 3 Axle Bin,Diesel,138993,8682,Kilometres,2.99
+4483,VN12LFX,Dennis Elite 3 Axle Bin,Diesel,139156,16868,Kilometres,4.66
+4484,VU62HOA,Dennis Elite 3 Axle Bin,Diesel,74395,8946,Kilometres,3.19
+4485,VU62HOH,Dennis Elite 3 Axle Bin,Diesel,93055,8305,Kilometres,2.96
+4486,VU62HPA,Dennis Elite 3 Axle Bin,Diesel,85178,9067,Kilometres,3.33
+4487,VU62HPC,Dennis Elite 3 Axle Bin,Diesel,74307,8852,Kilometres,2.49
+4493,VO13UWD,Dennis Elite 3 Axle Bin,Diesel,57609,4663,Kilometres,4.05
+4495,YJ13MTX,Mercedes Econic Low Entry 3 Axle Bin,CNG,73555,9843,Miles,4.42
+4496,YJ13MTV,Mercedes Econic Low Entry 3 Axle Bin,CNG,76997,9819,Miles,5.27
+4497,YF62EAX,Mercedes Econic Low Entry 3 Axle Bin,CNG,81748,7837,Miles,3.83
+4498,YF62EAY,Mercedes Econic Low Entry 3 Axle Bin,CNG,69550,10015,Miles,5.74
+4610,PO13AYP,Renault Kerax Hookloader,Diesel,162867,23101,Kilometres,5.41
+4611,PO13AYS,Renault Kerax Hookloader,Diesel,192077,24875,Kilometres,5.3
+4612,PO13AYU,Renault Kerax Hookloader,Diesel,172675,19836,Kilometres,5.1
+4613,PO13AYT,Renault Kerax Hookloader,Diesel,184143,23346,Kilometres,5.19
+4614,PO13AYV,Renault Kerax Hookloader,Diesel,167764,17721,Kilometres,5.05
+4615,YE16YPP,Mercedes Arocs Hookloader,Diesel,80191,29244,Kilometres,5.39
+4616,YE16YPR,Mercedes Arocs Hookloader,Diesel,73568,24100,Kilometres,5.23
+4617,YE16YPT,Mercedes Arocs Hookloader,Diesel,61859,20248,Kilometres,5.16
