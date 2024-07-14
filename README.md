@@ -1,33 +1,20 @@
 # fleet-analysis
 This project provides the realtime information of the driving pattern of the vehicles driven by the different drivers across the world. We will calculate the wages, distance driven etc in realtime joining with the batch data.
 
+*Tools used - Hadoop, Spark, Nifi, elasic search, kibana*
+
 *Project Flow*
 
-Batch:<br />
+● Data ingestion
+Data is in MySQL database which is sent to HDFS for primary staging using SQOOP
+● Linux shell script - breaks large data to smaller files and sends them after an interval of
+10 seconds
+● Nifi data flow pushes these small files to Kafka
+● Spark program - reads HDFS & KAFKA DATA —> Creates df, temporary views, joins
+data
+● This data is put into elastic search indices
+● Kibana is used for visualisation
 
-1. Spark JDBC for injecting the drivers, timesheet data from database.<br />
-
-2. SCP source data into Linux file system of Ingestion node to HDFS for persisting the data in the raw
-layer -> clean/curate and load into curated layer -> apply SCD and store into Dimension tables -> Apply
-masking and load into trusted layer -> Data is available for consumption/discovery and Analytics<br />
-
-Realtime:<br />
-
-4. Run a linux shell script to simulate the realtime vehicle movement by reading data from events file
-and create smaller files.<br />
-
-5. NIFI data flow to read the data from the files created in step 3 and push the data to Kafka.<br />
-
-6. Spark Program to read the data from HDFS location where sqoop imported and read from Kafka,
-create dataframes, temporary views in spark and join the sqoop data with the kafka data and perist
-into Elastic search indices.<br />
-
-7. Kibana visualizations and dashboards created for reporting.<br />
-
-*Prerequisites*<br />
-
-Ensure Hadoop, Spark, Eclipse IDE for scala, NIFI, Kafka, Elastic Search and Kibana are installed in the
-node.
 
 *Architecture*
 
