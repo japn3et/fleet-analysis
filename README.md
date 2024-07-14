@@ -5,15 +5,13 @@ This project provides the realtime information of the driving pattern of the veh
 
 *Project Flow*
 
-● Data ingestion
-Data is in MySQL database which is sent to HDFS for primary staging using SQOOP
-● Linux shell script - breaks large data to smaller files and sends them after an interval of
-10 seconds
-● Nifi data flow pushes these small files to Kafka
-● Spark program - reads HDFS & KAFKA DATA —> Creates df, temporary views, joins
-data
-● This data is put into elastic search indices
-● Kibana is used for visualisation
+● Data ingestion <br />
+Data is in MySQL database which is sent to HDFS for primary staging using SQOOP <br />
+● Linux shell script - breaks large data to smaller files and sends them after an interval of 10 seconds <br />
+● Nifi data flow pushes these small files to Kafka <br />
+● Spark program - reads HDFS & KAFKA DATA —> Creates df, temporary views, joins data <br />
+● This data is put into elastic search indices<br />
+● Kibana is used for visualisation<br />
 
 
 *Architecture*
